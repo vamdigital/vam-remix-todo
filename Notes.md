@@ -1,0 +1,22 @@
+# Todo
+
+- [ ] Add committizen
+- [ ] Add prettier
+- [ ] Add husky hooks
+- [ ] create github repo
+- [ ] Add background color to body
+- [ ] Create Todays task and current date component
+- [ ] Create button component
+- [ ] Create Pill Component
+- [ ] Create Task Card Component
+- [ ] Create Header Component
+- [ ] Create Form Component
+- [ ] Create Toast Component
+- [ ] Create Delete Dialog Component
+- [ ] Create Supabase Postgres Database
+- [ ] Install Prisma and Prisma Client
+- [ ] Create db.utils file
+- [ ] Create Read Loader Fn
+- [ ] Create Add Action Fn
+- [ ] Create Update Action Fn
+- [ ] Create Delete Action Fn
