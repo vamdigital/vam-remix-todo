@@ -1,8 +1,8 @@
 # Todo
 
-- [ ] Add committizen
-- [ ] Add prettier
-- [ ] Add husky hooks
+- [x] Add committizen
+- [x] Add prettier
+- [x] Add husky hooks
 - [ ] create github repo
 - [ ] Add background color to body
 - [ ] Create Todays task and current date component
